@@ -1,28 +1,9 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the example app for the Rails Girls Auckland front-end stream. 
 
-Things you may want to cover:
+We're starting with a presentation, which can be found at: http://tanyagray.github.io/Building-the-Web/#/14
 
-* Ruby version
+After that please clone this app into your development environment.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+We'll run through everything after that!
